@@ -1,0 +1,15 @@
+{
+    "name": "dyalogo/script",
+    "autoload": {
+        "psr-4": {
+            "Dyalogo\\Script\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maicol Hernandez Peralta",
+            "email": "dev2@dyalogo.com"
+        }
+    ],
+    "require": {}
+}
